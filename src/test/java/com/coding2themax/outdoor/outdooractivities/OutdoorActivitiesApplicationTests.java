@@ -8,6 +8,7 @@ class OutdoorActivitiesApplicationTests {
 
 	@Test
 	void contextLoads() {
+		OutdoorActivitiesApplication.main(new String[] {});
 	}
 
 }
